@@ -1,0 +1,7 @@
+{
+  "serverPort": 90,
+  "dbUrl": "mongodb://localhost:27017/claim_section",
+  "secretKey": "vdk-secket-key",
+  "staticPath": "C:\\Dev\\Claim-Section\\server\\static",
+  "wwwUrl": "http://localhost:3000/"
+}

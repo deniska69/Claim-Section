@@ -1,0 +1,45 @@
+#card_cabinet {
+    max-width: 95vw;
+}
+
+.card_otstup {
+    margin-bottom: 2vh;
+}
+
+@media (min-width: 992px) { 
+    #attachment_img {
+        width: 10vw;
+        height: 15vw;
+        object-fit: cover
+    }
+
+    #attachment_img_modal {
+        width: 40vw;
+        height: 30vw;
+        object-fit: cover;
+        padding: 0;
+    }
+ }
+
+@media (min-width: 1400px) { 
+    #attachment_img {
+        width: 10vw;
+        height: 10vw;
+        object-fit: cover
+    }
+
+    #attachment_img_modal {
+        width: 30vw;
+        height: 30vw;
+        object-fit: cover;
+        padding: 0;
+    }
+ }
+
+.no_padding {
+    padding: 0;
+}
+
+#ahrefCabinet {
+    margin-left: 0.25vw;
+}
