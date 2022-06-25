@@ -1,4 +1,5 @@
 # Претензионный раздел
+Скриншоты можно посмотреть по ссылке: [https://gostev.site/portfolio/ClaimSection](https://gostev.site/portfolio/ClaimSection)
 
 Претензионный раздел решает следующие задачи:
 
